@@ -1,6 +1,6 @@
 package helloWorld;
 
-public class PrintHelloWorld 
+public class PrintHelloWorld extends Add
 {
 
 	public static void main(String[] args) {
